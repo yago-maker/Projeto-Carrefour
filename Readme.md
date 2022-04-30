@@ -6,3 +6,4 @@ Pensamento Computacional_
 * Logica de Programaçao
 * Metodologia Scrum
 * Git e GitHub
+* Desafio 
